@@ -1,0 +1,37 @@
+p{
+    border: solid red;
+    border-width: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.odd{
+    border: dashed red;
+    border-width: 10px;
+    padding: 5px;
+    padding: 20px;
+}
+.xuux{
+    border: dotted red;
+    border-width: 10px;
+    padding: 5px;
+    padding: 20px;
+}
+.even{
+    border: double red;
+    border-width: 10px;
+    padding: 5px;
+    padding: 20px;
+}
+.yaab{
+    border: ridge red;
+    border-width: 10px;
+    padding: 5px;
+    padding: 20px;
+}
+.eeg{
+    border: outset rgb(234, 255, 0);
+    border-width: 10px;
+    padding: 5px;
+    padding: 20px;
+    
+}

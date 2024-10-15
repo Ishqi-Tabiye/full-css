@@ -1,0 +1,14 @@
+body{
+    background-image: url(plant\ background.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    background: linear-gradient(to right, skyblue, lightgreen);
+    text-align: center;
+}
+p{
+   color: white;
+}
